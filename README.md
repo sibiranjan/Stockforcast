@@ -14,7 +14,7 @@ This Stock Forecasting app is built using Streamlit and utilizes data from Yahoo
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/stock-forecasting-app.git
+git clone https://github.com/sibiranjan/stock-forecasting-app.git
 ```
 
 2. Navigate into the project directory:
